@@ -1,6 +1,4 @@
-# DeepLearning.AI TensorFlow Developer (TF1)
-
-**Specialization Name**: DeepLearning.AI TensorFlow Developer Professional Certificate
+**Specialization Name**: DeepLearning.AI TensorFlow Developer
 
 Below is the list of assignments and ungraded labs course-wise.
 
@@ -185,7 +183,7 @@ Below is the list of assignments and ungraded labs course-wise.
 
 ### Assignment (Optional)
 
-- Sunspots _(C4_W3_Assignment.ipynb)_
+- Sunspots _(C4_W4_Assignment.ipynb)_
 
 ### Ungraded Labs
 
