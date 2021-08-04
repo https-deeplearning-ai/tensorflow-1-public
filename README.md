@@ -42,11 +42,54 @@ Below is the list of assignments and ungraded labs course-wise.
 
 ### Assignment
 
-- Handling Complex Images _(C1_W3_Assignment.ipynb)_
+- Handling Complex Images _(C1_W4_Assignment.ipynb)_
 
 ### Ungraded Labs
 
 1. Image Generator _(C1_W4_Lab_1_image_generator_no_validation.ipynb)_
 2. Image Generator with Validation _(C1_W4_Lab_2_image_generator_with_validation.ipynb)_
 3. Compacted Images _(C1_W4_Lab_3_compacted_images.ipynb)_
+
+# C2 - Convolutional Neural Networks in TensorFlow
+
+## Week 1
+
+### Assignment
+
+- Cats vs. Dogs _(C2_W1_Assignment.ipynb)_
+
+### Ungraded Labs
+
+1. Using more sophisticated images with Convolutional Neural Networks _(C2_W1_Lab_1_cats_vs_dogs.ipynb)_
+
+## Week 2
+
+### Assignment
+
+- Cats vs. Dogs using Augmentation _(C2_W2_Assignment.ipynb)_
+
+### Ungraded Labs
+
+1. Cats vs. Dogs with Augmentation _(C2_W2_Lab_1_cats_v_dogs_augmentation.ipynb)_
+2. Horses vs. Humans with Augmentation _(C2_W2_Lab_2_horses_v_humans_augmentation.ipynb)_
+
+## Week 3 
+
+### Assignment
+
+- Horses vs. Humans using Transfer Learning _(C2_W3_Assignment.ipynb)_
+
+### Ungraded Labs
+
+1. Exploring Transfer Learning _(C2_W3_Lab_1_transfer_learning.ipynb)_
+
+## Week 4
+
+### Assignment
+
+- Multi-class Classifier _(C2_W4_Assignment.ipynb)_
+
+### Ungraded Labs
+
+1. Classifying Rock, Paper, and Scissors _(C2_W4_Lab_1_multi_class_classifier.ipynb)_
 
