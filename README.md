@@ -115,7 +115,7 @@ Below is the list of assignments and ungraded labs course-wise.
 
 1. Positive or Negative IMDB Reviews _(C3_W2_Lab_1_imdb.ipynb)_
 2. Sarcasm Classifier _(C3_W2_Lab_2_sarcasm_classifier.ipynb)_
-3. IMDB Review Subwords _(C3_W3_Lab_3_imdb_subwords.ipynb)_
+3. IMDB Review Subwords _(C3_W2_Lab_3_imdb_subwords.ipynb)_
 
 ## Week 3
 
@@ -127,7 +127,7 @@ Below is the list of assignments and ungraded labs course-wise.
 
 1. IMDB Subwords 8K with Single Layer LSTM _(C3_W3_Lab_1_single_layer_LSTM.ipynb)_
 2. IMDB Subwords 8K with Multi Layer LSTM _(C3_W3_Lab_2_multiple_layer_LSTM.ipynb)_
-3. IMDB Subwords 8K with 1D Convolutional Layer _(C3_W3_Lab_3_multiple_layer_GRU.ipynb)_
+3. IMDB Subwords 8K with 1D Convolutional Layer _(C3_W3_Lab_3_Conv1D.ipynb)_
 4. IMDB Reviews with GRU (and optional LSTM and Conv1D) _(C3_W3_Lab_4_imdb_reviews_with_GRU_LSTM_Conv1D.ipynb)_
 5. Sarcasm with Bidirectional LSTM _(C3_W3_Lab_5_sarcasm_with_bi_LSTM.ipynb)_
 6. Sarcasm with 1D Convolutional Layer _(C3_W3_Lab_6_sarcasm_with_1D_convolutional.ipynb)_
