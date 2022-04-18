@@ -1,8 +1,17 @@
-**Specialization Name**: DeepLearning.AI TensorFlow Developer
+# DeepLearning.AI TensorFlow Developer
+
+Welcome to the public repo for this course.
 
 Below is the list of assignments and ungraded labs course-wise.
 
-# C1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
+
+### Want to contribute?
+
+If you find a bug or typo please raise an issue :)
+
+-----
+
+## C1 - Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning
 
 ## Week 1
 
@@ -48,7 +57,7 @@ Below is the list of assignments and ungraded labs course-wise.
 2. Image Generator with Validation _(C1_W4_Lab_2_image_generator_with_validation.ipynb)_
 3. Compacted Images _(C1_W4_Lab_3_compacted_images.ipynb)_
 
-# C2 - Convolutional Neural Networks in TensorFlow
+## C2 - Convolutional Neural Networks in TensorFlow
 
 ## Week 1
 
@@ -91,7 +100,7 @@ Below is the list of assignments and ungraded labs course-wise.
 
 1. Classifying Rock, Paper, and Scissors _(C2_W4_Lab_1_multi_class_classifier.ipynb)_
 
-# C3 - Natural Language Processing in TensorFlow
+## C3 - Natural Language Processing in TensorFlow
 
 ## Week 1
 
@@ -143,7 +152,7 @@ Below is the list of assignments and ungraded labs course-wise.
 1. NLP with Irish Music _(C3_W4_Lab_1.ipynb)_
 2. Generating Poetry from Irish Lyrics _(C3_W4_Lab_2_irish_lyrics.ipynb)_
 
-# C4 - Sequences, Time Series and Prediction
+## C4 - Sequences, Time Series and Prediction
 
 ## Week 1
 
@@ -181,9 +190,9 @@ Below is the list of assignments and ungraded labs course-wise.
 
 ## Week 4
 
-### Assignment (Optional)
+### Assignment
 
-- Sunspots _(C4_W4_Assignment.ipynb)_
+- Daily Minimum Temperatures in Melbourne _(C4W4_Assignment.ipynb)_
 
 ### Ungraded Labs
 
