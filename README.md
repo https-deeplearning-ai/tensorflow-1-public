@@ -17,7 +17,7 @@ If you find a bug or typo please raise an issue :)
 
 ### Assignment
 
-- Housing Prices _(C1_W1_Assignment.ipynb)_
+- Housing Prices _(C1W1_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -27,7 +27,7 @@ If you find a bug or typo please raise an issue :)
 
 ### Assignment
 
-- Handwriting Recognition _(C1_W2_Assignment.ipynb)_
+- Handwriting Recognition _(C1W2_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -38,7 +38,7 @@ If you find a bug or typo please raise an issue :)
 
 ### Assignment
 
-- Improve MNIST with Convolutions _(C1_W3_Assignment.ipynb)_
+- Improve MNIST with Convolutions _(C1W3_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -49,7 +49,7 @@ If you find a bug or typo please raise an issue :)
 
 ### Assignment
 
-- Handling Complex Images _(C1_W4_Assignment.ipynb)_
+- Handling Complex Images _(C1W4_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -63,7 +63,7 @@ If you find a bug or typo please raise an issue :)
 
 ### Assignment
 
-- Cats vs. Dogs _(C2_W1_Assignment.ipynb)_
+- Cats vs. Dogs _(C2W1_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -73,7 +73,7 @@ If you find a bug or typo please raise an issue :)
 
 ### Assignment
 
-- Cats vs. Dogs using Augmentation _(C2_W2_Assignment.ipynb)_
+- Cats vs. Dogs using Augmentation _(C2W2_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -84,7 +84,7 @@ If you find a bug or typo please raise an issue :)
 
 ### Assignment
 
-- Horses vs. Humans using Transfer Learning _(C2_W3_Assignment.ipynb)_
+- Horses vs. Humans using Transfer Learning _(C2W3_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -94,7 +94,7 @@ If you find a bug or typo please raise an issue :)
 
 ### Assignment
 
-- Multi-class Classifier _(C2_W4_Assignment.ipynb)_
+- Multi-class Classifier _(C2W4_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -104,9 +104,9 @@ If you find a bug or typo please raise an issue :)
 
 ## Week 1
 
-### Assignment (Optional)
+### Assignment 
 
-- Explore the BBC News Archive _(C3_W1_Assignment.ipynb)_
+- Explore the BBC News Archive _(C3W1_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -116,9 +116,9 @@ If you find a bug or typo please raise an issue :)
 
 ## Week 2
 
-### Assignment (Optional)
+### Assignment 
 
-- Categorizing the BBC News Archive _(C3_W2_Assignment.ipynb)_
+- Categorizing the BBC News Archive _(C3W2_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -128,9 +128,9 @@ If you find a bug or typo please raise an issue :)
 
 ## Week 3
 
-### Assignment (Optional)
+### Assignment 
 
-- Exploring Overfitting in NLP _(C3_W3_Assignment.ipynb)_
+- Exploring Overfitting in NLP _(C3W3_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -143,9 +143,9 @@ If you find a bug or typo please raise an issue :)
 
 ## Week 4
 
-### Assignment (Optional)
+### Assignment
 
-- Writing Shakespeare with LSTMs _(C3_W4_Assignment.ipynb)_
+- Writing Shakespeare with LSTMs _(C3W4_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -156,9 +156,9 @@ If you find a bug or typo please raise an issue :)
 
 ## Week 1
 
-### Assignment (Optional)
+### Assignment
 
-- Create and Predict Synthetic Data _(C4_W1_Assignment.ipynb)_
+- Create and Predict Synthetic Data _(C4W1_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -167,9 +167,9 @@ If you find a bug or typo please raise an issue :)
 
 ## Week 2
 
-### Assignment (Optional) 
+### Assignment  
 
-- Predict with a DNN _(C4_W2_Assignment.ipynb)_
+- Predict with a DNN _(C4W2_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -179,9 +179,9 @@ If you find a bug or typo please raise an issue :)
 
 ## Week 3
 
-### Assignment (Optional)
+### Assignment
 
-- Mean Absolute Error _(C4_W3_Assignment.ipynb)_
+- Using RNN's and LSTM's for time series _(C4W3_Assignment.ipynb)_
 
 ### Ungraded Labs
 
@@ -192,7 +192,7 @@ If you find a bug or typo please raise an issue :)
 
 ### Assignment
 
-- Daily Minimum Temperatures in Melbourne _(C4W4_Assignment.ipynb)_
+- Daily Minimum Temperatures in Melbourne - Real Life Data _(C4W4_Assignment.ipynb)_
 
 ### Ungraded Labs
 
