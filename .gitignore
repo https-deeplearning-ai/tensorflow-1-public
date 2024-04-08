@@ -3,3 +3,5 @@ __pycache__
 .ipynb_checkpoints
 .DS_Store
 *.npz
+*.zip
+*.png
