@@ -1,0 +1,11 @@
+jupyterlab==4.1.4
+dlai-grader>=1.18.0
+tensorflow==2.16.1
+keras==3.3.3
+tensorflow-text==2.16.1
+tensorflow-datasets==4.9.4
+keras-nlp==0.11.1
+pandas==2.1.1
+matplotlib==3.8.3
+ipywidgets==8.1.1
+pooch==1.8.1
