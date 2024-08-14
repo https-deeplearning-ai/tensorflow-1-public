@@ -56,8 +56,8 @@ If you find a bug that is blocking in any way consider joining our [community](h
 
 ### Ungraded Labs
 
-1. Image Generator _(C1_W4_Lab_1_image_generator_no_validation.ipynb)_
-2. Image Generator with Validation _(C1_W4_Lab_2_image_generator_with_validation.ipynb)_
+1. Preprocessing Images to Train a Neural Network _(C1_W4_Lab_1_image_data_preprocessing_no_validation.ipynb)_
+2. Image Data Preprocessing with a Validation Set _(C1_W4_Lab_2_image_data_preprocessing_with_validation.ipynb)_
 3. Compacted Images _(C1_W4_Lab_3_compacted_images.ipynb)_
 
 ## C2 - Convolutional Neural Networks in TensorFlow
@@ -113,7 +113,7 @@ If you find a bug that is blocking in any way consider joining our [community](h
 
 ### Ungraded Labs
 
-1. Simple Tokenizing _(C3_W1_Lab_1_tokenize_basic.ipynb)_
+1. Building a Vocabulary _(C3_W1_Lab_1_building_a_vocabulary.ipynb)_
 2. Simple Sequences _(C3_W1_Lab_2_sequences_basic.ipynb)_
 3. Sarcasm _(C3_W1_Lab_3_sarcasm.ipynb)_
 
@@ -137,9 +137,9 @@ If you find a bug that is blocking in any way consider joining our [community](h
 
 ### Ungraded Labs
 
-1. IMDB Subwords 8K with Single Layer LSTM _(C3_W3_Lab_1_single_layer_LSTM.ipynb)_
-2. IMDB Subwords 8K with Multi Layer LSTM _(C3_W3_Lab_2_multiple_layer_LSTM.ipynb)_
-3. IMDB Subwords 8K with 1D Convolutional Layer _(C3_W3_Lab_3_Conv1D.ipynb)_
+1. IMDB Subwords with Single Layer LSTM _(C3_W3_Lab_1_single_layer_LSTM.ipynb)_
+2. IMDB Subwords with Multi Layer LSTM _(C3_W3_Lab_2_multiple_layer_LSTM.ipynb)_
+3. IMDB Subwords with 1D Convolutional Layer _(C3_W3_Lab_3_Conv1D.ipynb)_
 4. IMDB Reviews with GRU (and optional LSTM and Conv1D) _(C3_W3_Lab_4_imdb_reviews_with_GRU_LSTM_Conv1D.ipynb)_
 5. Sarcasm with Bidirectional LSTM _(C3_W3_Lab_5_sarcasm_with_bi_LSTM.ipynb)_
 6. Sarcasm with 1D Convolutional Layer _(C3_W3_Lab_6_sarcasm_with_1D_convolutional.ipynb)_
